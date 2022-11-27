@@ -2,5 +2,5 @@
 
 using vsCode
 
-# sun headings are added
+# sub headings are added
 
